@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+npm-debug.log
+
+.git
+.gitignore
+.vscode
+.editorconfig
+
+__tests__
+*.test.js
+*.test.ts
+
+.env
+*.config.js
+*.config.ts
