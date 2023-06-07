@@ -10,3 +10,5 @@ function saveUser(params: User) {
 }
 
 saveUser({ name: 'Julio', age: 35 });
+
+export const sum = (number1: number, number2: number) => number1 + number2;
